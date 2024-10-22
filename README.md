@@ -8,5 +8,5 @@ Liang, C., Karlstrom, L., & Dunham, E. M. (2020). Magma oscillations in a condui
 
 Prochnow, B., O’Reilly, O., Dunham, E. M., & Petersson, N. A. (2017). Treatment of the polar coordinate singularity in axisymmetric wave propagation using high-order summation-by-parts operators on a staggered grid. Computers & Fluids, 149, 138-149.
 
-
+Axisymmetric code developed by Ossian O'Reilly and Bo Prochnow.
 
